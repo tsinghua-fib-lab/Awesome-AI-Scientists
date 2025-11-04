@@ -1,20 +1,23 @@
-# Awesome-World-Model [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-AI-Scientists [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome resources on World Models, based on the comprehensive survey "Understanding World or Predicting Future? A Comprehensive Survey of World Models".
+A curated list of awesome resources on AI Scientists, based on our survey "A Comprehensive Survey of AI Scientists".
 
-![Loading roadmap](asset/roadmap.png "outline")
+<!-- ![Loading roadmap](asset/roadmap.png "outline") -->
 
+<!--
 ## News🔥
 
 * **[2024/11/21]** Initial release of our survey is available on [arXiv](https://arxiv.org/abs/2411.14499v1).
-* **[2025/06/13]** Our survey paper "Understanding World or Predicting Future? A Comprehensive Survey of World Models" has been accepted by [ACM Computing Surveys](https://dl.acm.org/doi/abs/10.1145/3746449).
-* **[2025/06/25]** Second version of our survey is available on [arXiv](https://arxiv.org/abs/2411.14499).
-* **[2025/07/18]** Initial release of the Awesome-World-Model GitHub repository.
+* **[2025/07/18]** Initial release of the Awesome-AI-Scientists GitHub repository.
+-->
 
-## Contact
+<!--
+## Contact📑
 If you have any suggestions or find our work helpful, feel free to contact us  
-Email: dingjt15@tsinghua.org.cn
+Email: fenglixu@tsinghua.edu.cn
+-->
 
+<!--
 If this list helps your research, please ⭐ and cite:
 
 ```bibtex
@@ -25,6 +28,86 @@ If this list helps your research, please ⭐ and cite:
   year={2025}
 }
 ```
+-->
+
+## Table of Contents 🍃
+* [Functional Roles of AI Scientists 🔬](#functional-roles-of-ai-scientists)
+  * [Deep Research](#deep-research)
+  * [Ideation](#ideation)
+  * [Autonomous Experiments](#autonomous-experiments)
+  * [Scientific Presentation](#scientific-presentation)
+  * [Research Evaluation](#research-evaluation)
+- [Human-AI Scientist Collaboration 🤝](#human-ai-scientist-collaboration)
+  - [Human-in-the-Loop](#human-in-the-loop)
+  - [Human-out-of-the-Loop](#human-out-of-the-loop)
+- [AI Scientist by Research Domain 🌍](#ai-scientist-by-research-domain)
+  - [Physical Science](#physical-science)
+  - [Life Science](#life-science)
+  - [Social Science](#social-science)
+  - [Information Science](#information-science)
+- [Broader Impacts of AI Scientists 🌱](#broader-impacts-of-ai-scientists)
+
+## Functional Roles of AI Scientists
+
+### Deep Research
+
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+| [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning  **(Search-R1)**](https://arxiv.org/abs/2503.09516) | 2025               | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/PeterGriffinJin/Search-R1) |
+| [Tongyi DeepResearch: A New Era of Open-Source AI Researchers  **(Tongyi DeepResearch)**](https://arxiv.org/abs/2510.24701v1) | 2025               | [![Website](https://img.shields.io/badge/Website-9cf)](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) |
+
+### Ideation
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+### Autonomous Experiments
+
+More specific divisions here? Compiler, Simulator?
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+### Scientific Presentation
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+### Research Evaluation
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+## Human-AI Scientist Collaboration
+
+### Human-in-the-Loop
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+### Human-out-of-the-Loop
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+## AI Scientist by Research Domain
+
+### Physical Science
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+### Life Science
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+### Social Science
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+### Information Science
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+## Broader Impacts of AI Scientists
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+<!--
+请参考下面的格式：
 
 ## Table of Contents 🍃
 
@@ -393,3 +476,4 @@ If this list helps your research, please ⭐ and cite:
 | [Network Formation and Dynamics Among Multi-LLMs](https://arxiv.org/abs/2402.10659)                                                     | arXiv 2024  | [![Star](https://img.shields.io/github/stars/papachristoumarios/llm-network-formation.svg?style=social&label=Star)](https://github.com/papachristoumarios/llm-network-formation)                    |
 | [S3: Social-network Simulation System with Large Language Model-Empowered Agents](https://arxiv.org/abs/2307.14984)                     | arXiv 2023  | —                    |
 | [Exploring large language models for communication games: An empirical study on werewolf](https://arxiv.org/abs/2309.04658)             | arXiv 2023  | [![Star](https://img.shields.io/github/stars/xuyuzhuang11/Werewolf.svg?style=social&label=Star)](https://github.com/xuyuzhuang11/Werewolf)                     |
+-->
