@@ -31,21 +31,21 @@ If this list helps your research, please ⭐ and cite:
 -->
 
 ## Table of Contents 🍃
-* [Functional Roles of AI Scientists 🔬](#functional-roles-of-ai-scientists)
-  * [Deep Research](#deep-research)
-  * [Ideation](#ideation)
-  * [Autonomous Experiments](#autonomous-experiments)
-  * [Scientific Presentation](#scientific-presentation)
-  * [Research Evaluation](#research-evaluation)
-- [Human-AI Scientist Collaboration 🤝](#human-ai-scientist-collaboration)
-  - [Human-in-the-Loop](#human-in-the-loop)
-  - [Human-out-of-the-Loop](#human-out-of-the-loop)
-- [AI Scientist by Research Domain 🌍](#ai-scientist-by-research-domain)
-  - [Physical Science](#physical-science)
-  - [Life Science](#life-science)
-  - [Social Science](#social-science)
-  - [Information Science](#information-science)
-- [Broader Impacts of AI Scientists 🌱](#broader-impacts-of-ai-scientists)
+* [🔬 Functional Roles of AI Scientists](#functional-roles-of-ai-scientists)
+  * [🔍 Deep Research](#deep-research)
+  * [💡 Ideation](#ideation)
+  * [🧪 Autonomous Experiments](#autonomous-experiments)
+  * [📊 Scientific Presentation](#scientific-presentation)
+  * [⚖️ Research Evaluation](#research-evaluation)
+- [🤝 Human-AI Scientist Collaboration](#human-ai-scientist-collaboration)
+  - [👤 Human-in-the-Loop](#human-in-the-loop)
+  - [🤖 Human-out-of-the-Loop](#human-out-of-the-loop)
+- [🌍 AI Scientist by Research Domain](#ai-scientist-by-research-domain)
+  - [⚛️ Physical Science](#physical-science)
+  - [🧬 Life Science](#life-science)
+  - [🏛️ Social Science](#social-science)
+  - [💾 Information Science](#information-science)
+- [🌱 Broader Impacts of AI Scientists](#broader-impacts-of-ai-scientists)
 
 ## Functional Roles of AI Scientists
 
