@@ -103,6 +103,15 @@ More specific divisions here? Compiler, Simulator?
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
 | [DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning  **(DS-Agent)**](https://dl.acm.org/doi/abs/10.5555/3692070.3692738) | 2024               | [![Star](https://img.shields.io/github/stars/guosyjlu/DS-Agent?style=social)](https://github.com/guosyjlu/DS-Agent) |
 | [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science  **(DeepAnalyze)**](https://arxiv.org/abs/2510.16872) | 2025               | [![Star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze)](https://github.com/ruc-datalab/DeepAnalyze) |
+| [AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions  **(AutoKaggle)**](https://orbilu.uni.lu/handle/10993/64877) | 2024               | [![Star](https://img.shields.io/github/stars/multimodal-art-projection/AutoKaggle?style=social)](https://github.com/multimodal-art-projection/AutoKaggle) |
+| [AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML  **(AutoML-Agent)**](https://arxiv.org/abs/2410.02958) | 2025               | [![Star](https://img.shields.io/github/stars/deepauto-ai/automl-agent?style=social)](https://github.com/deepauto-ai/automl-agent) |
+| [Data Interpreter: An LLM Agent For Data Science  **(Data Interpreter)**](https://dl.acm.org/doi/abs/10.5555/3692070.3692738) | 2024               | [![Star](https://img.shields.io/github/stars/guosyjlu/DS-Agent?style=social)](https://github.com/guosyjlu/DS-Agent) |
+| [From data to story: Towards automatic animated data video creation with LLM-based multi-agent systems ](https://arxiv.org/abs/2510.16872) | 2025               | [![Star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze)](https://github.com/ruc-datalab/DeepAnalyze) |
+| [LAMBDA: A Large Model Based Data Agent  **(LAMBDA)**](https://dl.acm.org/doi/abs/10.5555/3692070.3692738) | 2024               | [![Star](https://img.shields.io/github/stars/guosyjlu/DS-Agent?style=social)](https://github.com/guosyjlu/DS-Agent) |
+| [Dagent: A relational database-driven data analysis report generation agent  **(Dagent)**](https://arxiv.org/abs/2510.16872) | 2025               | [![Star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze)](https://github.com/ruc-datalab/DeepAnalyze) |
+| [Budgetmlagent: A cost-effective LLM multi-agent system for automating machine learning tasks  **(Budgetmlagent)**](https://dl.acm.org/doi/abs/10.5555/3692070.3692738) | 2024               | [![Star](https://img.shields.io/github/stars/guosyjlu/DS-Agent?style=social)](https://github.com/guosyjlu/DS-Agent) |
+| [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue ReSolution  **(MAGIS)**](https://arxiv.org/abs/2510.16872) | 2025               | [![Star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze)](https://github.com/ruc-datalab/DeepAnalyze) |
+
 
 
 ## Broader Impacts of AI Scientists
