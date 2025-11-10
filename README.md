@@ -101,7 +101,7 @@ More specific divisions here? Compiler, Simulator?
 ### Data Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
-| [DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning  **(DS-Agent)**](https://dl.acm.org/doi/abs/10.5555/3692070.3692738) | 2024               | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/guosyjlu/DS-Agent) |
+| [DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning  **(DS-Agent)**](https://dl.acm.org/doi/abs/10.5555/3692070.3692738) | 2024               | [![Star](https://img.shields.io/github/stars/guosyjlu/DS-Agent?style=social)](https://github.com/guosyjlu/DS-Agent) |
 | [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science  **(DeepAnalyze)**](https://arxiv.org/abs/2510.16872) | 2025               | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/ruc-datalab/DeepAnalyze) |
 
 
