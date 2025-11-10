@@ -44,7 +44,7 @@ If this list helps your research, please ⭐ and cite:
   * [⚛️ Physical Science](#physical-science)
   * [🧬 Life Science](#life-science)
   * [🏛️ Social Science](#social-science)
-  * [💾 Information Science](#information-science)
+  * [💾 Data Science](#data-science)
 * [🌱 Broader Impacts of AI Scientists](#broader-impacts-of-ai-scientists)
 
 ## Functional Roles of AI Scientists
@@ -98,9 +98,12 @@ More specific divisions here? Compiler, Simulator?
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
 
-### Information Science
+### Data Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+| [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning  **(Search-R1)**](https://arxiv.org/abs/2503.09516) | 2025               | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/PeterGriffinJin/Search-R1) |
+| [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science  **(DeepAnalyze)**]([https://arxiv.org/abs/2510.24701v1](https://arxiv.org/abs/2510.16872)) | 2025               | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/ruc-datalab/DeepAnalyze) |
+
 
 ## Broader Impacts of AI Scientists
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
