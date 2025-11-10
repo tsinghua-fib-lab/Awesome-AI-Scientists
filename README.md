@@ -101,8 +101,8 @@ More specific divisions here? Compiler, Simulator?
 ### Data Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
-| [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning  **(Search-R1)**](https://arxiv.org/abs/2503.09516) | 2025               | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/PeterGriffinJin/Search-R1) |
-| [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science  **(DeepAnalyze)**]([https://arxiv.org/abs/2510.24701v1](https://arxiv.org/abs/2510.16872)) | 2025               | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/ruc-datalab/DeepAnalyze) |
+| [DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning  **(DS-Agent)**](https://dl.acm.org/doi/abs/10.5555/3692070.3692738) | 2024               | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/guosyjlu/DS-Agent) |
+| [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science  **(DeepAnalyze)**](https://arxiv.org/abs/2510.16872) | 2025               | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/ruc-datalab/DeepAnalyze) |
 
 
 ## Broader Impacts of AI Scientists
