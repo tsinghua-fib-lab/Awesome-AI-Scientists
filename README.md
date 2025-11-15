@@ -62,9 +62,28 @@ If this list helps your research, please ⭐ and cite:
 
 ### Autonomous Experiments
 
-More specific divisions here? Compiler, Simulator?
-| Title                                                        | Pub.&Date           | Code/Project URL                                             |
-| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+
+| Title | Category | Publication & Year | Code / Project URL |
+|---|---|---|---|
+| [Code2MCP: Transforming Code Repositories into MCP Services](https://arxiv.org/abs/2509.05941) | Compiler | arXiv 2025 | [Code](https://github.com/DEFENSE-SEU/Code2MCP) |
+| [Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI Agents](https://arxiv.org/abs/2509.06917) | Compiler | arXiv 2025 | [Code](https://github.com/jmiao24/Paper2Agent) |
+| [EnvX: Agentize Everything with Agentic AI](https://arxiv.org/abs/2509.08088) | Compiler | arXiv 2025 | - |
+| [Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning](https://arxiv.org/abs/2504.17192) | Compiler | arXiv 2025 | [Code](https://github.com/going-doer/Paper2Code) |
+| [Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6) | Compiler | Nature 2024 | [Code](https://github.com/google-deepmind/funsearch) |
+| [AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://arxiv.org/abs/2506.13131) | Compiler | arXiv 2025 | [Blog](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/) |
+| [X-evolve: Solution space evolution powered by large language models](https://arxiv.org/abs/2508.07932) | Compiler | arXiv 2025 | [Code](https://github.com/zhaiyi000/x-evolve) |
+| [ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution](https://arxiv.org/abs/2509.19349) | Compiler | arXiv 2025 | [Code](https://github.com/SakanaAI/ShinkaEvolve) |
+| [DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively](https://arxiv.org/abs/2509.26603) | Compiler | arXiv 2025 | [Code](https://github.com/ResearAI/DeepScientist) |
+| [OpenFOAMGPT 2.0: end-to-end, trustworthy automation for computational fluid dynamics](https://arxiv.org/abs/2504.19338) | Simulator | arXiv 2025 | - |
+| [ChemCrow: Augmenting large-language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8) | Simulator | Nat. Mach. Intell. 2024 | [Code](https://github.com/ur-whitelab/chemcrow-public) |
+| [A mobile robotic chemist](https://www.nature.com/articles/s41586-020-2442-2) | Robot | Nature 2020 | [BitBucket](https://bitbucket.org/ben_burger/kuka_workflow) |
+| [An autonomous laboratory for the accelerated synthesis of novel materials](https://www.nature.com/articles/s41586-023-06734-w) | Robot | Nature 2023 | - |
+| [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) | Robot | Nature 2023 | [Code](https://github.com/gomesgroup/coscientist) |
+| [A multimodal robotic platform for multi-element electrocatalyst discovery](https://www.nature.com/articles/s41586-025-09640-5) | Robot | Nature 2025 | [Code](https://github.com/zhang21mit/CRESt) |
+
+| ------------------------------------------------------------ | ------------------- | ---- | ------------------------------------------------------------ |
+| ------------------------------------------------------------ | ------------------- | ---- | ------------------------------------------------------------ |
+| ------------------------------------------------------------ | ------------------- | ---- |------------------------------------------------------------ |
 
 ### Scientific Presentation
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
