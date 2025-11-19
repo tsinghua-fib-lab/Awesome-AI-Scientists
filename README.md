@@ -51,10 +51,19 @@ If this list helps your research, please ⭐ and cite:
 
 ### Deep Research
 
-| Title                                                        | Pub.&Date           | Code/Project URL                                             |
-| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
-| [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning  **(Search-R1)**](https://arxiv.org/abs/2503.09516) | 2025               | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/PeterGriffinJin/Search-R1) |
-| [Tongyi DeepResearch: A New Era of Open-Source AI Researchers  **(Tongyi DeepResearch)**](https://arxiv.org/abs/2510.24701v1) | 2025               | [![Website](https://img.shields.io/badge/Website-9cf)](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) |
+| Title                                                        | Pub. & Date     | Code / Project URL                                           |
+| :----------------------------------------------------------- | :-------------- | :----------------------------------------------------------- |
+| **[Tongyi DeepResearch: A New Era of Open-Source AI Researchers](https://arxiv.org/abs/2510.24701)** | ArXiv 2025      | [![Star](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch.svg?style=social&label=Star)](https://github.com/Alibaba-NLP/DeepResearch) |
+| **[Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)** | ArXiv 2025 | [![Star](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1.svg?style=social&label=Star)](https://github.com/PeterGriffinJin/Search-R1) |
+| **[WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/abs/2504.21776)** | ArXiv 2025      | [![Star](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker.svg?style=social&label=Star)](https://github.com/RUC-NLPIR/WebThinker) |
+| **[WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648)** | ArXiv 2025      | [![Star](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch.svg?style=social&label=Star)](https://github.com/Alibaba-NLP/DeepResearch) |
+| **[AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102)** | ArXiv 2025      | [![Website](https://img.shields.io/badge/Project-Page-blue)](https://agentrxiv.github.io/) |
+| **[AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning](https://arxiv.org/abs/2406.11200)** | NeurIPS 2024    | [![Star](https://img.shields.io/github/stars/zou-group/avatar.svg?style=social&label=Star)](https://github.com/zou-group/avatar) |
+| **[DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents](https://arxiv.org/abs/2506.11763)** | ArXiv 2025      | [![Star](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench.svg?style=social&label=Star)](https://github.com/Ayanami0730/deep_research_bench) |
+| **[Open Deep Research (LangChain)](https://github.com/langchain-ai/open_deep_research)** | GitHub 2025     | [![Star](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg?style=social&label=Star)](https://github.com/langchain-ai/open_deep_research) |
+| **[Introducing Deep Research (OpenAI)](https://openai.com/index/introducing-deep-research/)** | OpenAI 2025     | [Product Page](https://openai.com/index/introducing-deep-research/) |
+| **[Sonar Deep Research (Perplexity)](https://docs.perplexity.ai/getting-started/models/models/sonar-deep-research)** | Perplexity 2025 | [Model Card](https://docs.perplexity.ai/getting-started/models/models/sonar-deep-research) |
+| **[Qwen Deep Research](https://www.alibabacloud.com/help/en/model-studio/qwen-deep-research)** | Qwen AI 2025    | [Documentation](https://www.alibabacloud.com/help/en/model-studio/qwen-deep-research) |
 
 ### Ideation
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
