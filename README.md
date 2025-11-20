@@ -91,8 +91,10 @@ If this list helps your research, please ⭐ and cite:
 | [An autonomous laboratory for the accelerated synthesis of novel materials](https://www.nature.com/articles/s41586-023-06734-w) | Robot | Nature 2023 | - |
 | [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) | Robot | Nature 2023 | [Code](https://github.com/gomesgroup/coscientist) |
 | [A multimodal robotic platform for multi-element electrocatalyst discovery](https://www.nature.com/articles/s41586-025-09640-5) | Robot | Nature 2025 | [Code](https://github.com/zhang21mit/CRESt) |
-| [Biomni: A general-purpose biomedical AI agent](https://doi.org/10.1101/2025.05.30.656746 ) | human | bioXiv2025 | [Product Page]https://biomni.stanford.edu/ |
-| ------------------------------------------------------------ | ------------------- | ---- |------------------------------------------------------------ |
+| [Biomni: A general-purpose biomedical AI agent](https://doi.org/10.1101/2025.05.30.656746 ) | human | bioXiv2025 | [Product Page](https://biomni.stanford.edu/) |
+| [CRISPR-GPT for agentic automation of gene-editing experiments](https://doi.org/10.1038/s41551-025-01463-z) | human | Nature Biomedical Engineering 2025 | - |
+| [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864)) | human | arXiv 2025 | - |
+| [Robin: A multi-agent system for automating scientific discovery](https://arxiv.org/abs/2505.13400))) | human | arXiv 2025 | [Code](https://github.com/Future-House/robin/?tab=readme-ov-file) |
 
 | ------------------------------------------------------------ | ------------------- | ---- | ------------------------------------------------------------ |
 | ------------------------------------------------------------ | ------------------- | ---- | ------------------------------------------------------------ |
