@@ -31,21 +31,23 @@ If this list helps your research, please ⭐ and cite:
 -->
 
 ## Table of Contents 🍃
-* [🔬 Functional Roles of AI Scientists](#functional-roles-of-ai-scientists)
-  * [🔍 Deep Research](#deep-research)
-  * [💡 Ideation](#ideation)
-  * [🧪 Autonomous Experiments](#autonomous-experiments)
-  * [📊 Scientific Presentation](#scientific-presentation)
-  * [⚖️ Research Evaluation](#research-evaluation)
-* [🤝 Human-AI Scientist Collaboration](#human-ai-scientist-collaboration)
-  * [👤 Human-in-the-Loop](#human-in-the-loop)
-  * [🤖 Human-out-of-the-Loop](#human-out-of-the-loop)
-* [🌍 AI Scientist by Research Domain](#ai-scientist-by-research-domain)
-  * [⚛️ Physical Science](#physical-science)
-  * [🧬 Life Science](#life-science)
-  * [🏛️ Social Science](#social-science)
-  * [💾 Data Science](#data-science)
-* [🌱 Broader Impacts of AI Scientists](#broader-impacts-of-ai-scientists)
+- [Awesome-AI-Scientists ](#awesome-ai-scientists-)
+  - [Table of Contents 🍃](#table-of-contents-)
+  - [Functional Roles of AI Scientists](#functional-roles-of-ai-scientists)
+    - [Deep Research](#deep-research)
+    - [Ideation](#ideation)
+    - [Autonomous Experiments](#autonomous-experiments)
+    - [Scientific Presentation](#scientific-presentation)
+    - [Research Evaluation](#research-evaluation)
+  - [Human-AI Scientist Collaboration](#human-ai-scientist-collaboration)
+    - [Human-in-the-Loop](#human-in-the-loop)
+    - [Human-out-of-the-Loop](#human-out-of-the-loop)
+  - [AI Scientist by Research Domain](#ai-scientist-by-research-domain)
+    - [Physical Science](#physical-science)
+    - [Life Science](#life-science)
+    - [Social Science](#social-science)
+    - [Data Science](#data-science)
+  - [Broader Impacts of AI Scientists](#broader-impacts-of-ai-scientists)
 
 ## Functional Roles of AI Scientists
 
@@ -125,9 +127,11 @@ If this list helps your research, please ⭐ and cite:
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
 
 ### Human-out-of-the-Loop
-| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| Title                                                        | Pub.&Date           | Code/Project URL                                             | 
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
-
+| [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery  **(AI Scientist)**](https://arxiv.org/abs/2408.06292) | arxiv 2024 | [![Star](https://img.shields.io/github/stars/SakanaAI/AI-Scientist.svg?style=social&label=Star)](https://github.com/SakanaAI/AI-Scientist) |
+| [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search  **(AI Scientist-v2)**](https://arxiv.org/abs/2504.08066) | arxiv 2025 | [![Star](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2.svg?style=social&label=Star)](https://github.com/SakanaAI/AI-Scientist-v2) |
+| [Zochi technical report  **(Zochi)**](https://github.com/IntologyAI/Zochi/blob/main/Zochi_Technical_Report.pdf) | 2025 | [![Star](https://img.shields.io/github/stars/IntologyAI/Zochi.svg?style=social&label=Star)](https://github.com/IntologyAI/Zochi) |
 ## AI Scientist by Research Domain
 
 ### Physical Science
