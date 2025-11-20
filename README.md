@@ -96,8 +96,8 @@ If this list helps your research, please ⭐ and cite:
 | [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864) | human | arXiv 2025 | - |
 | [Robin: A multi-agent system for automating scientific discovery](https://arxiv.org/abs/2505.13400) | human | arXiv 2025 | [Code](https://github.com/Future-House/robin/?tab=readme-ov-file) |
 | [What is the Model Conetext Protocol(MCP)?](https://modelcontextprotocol.io/docs/getting-started/intro) | Platform & Protocol | 2025 | [GitHub](https://github.com/modelcontextprotocol) |
-| [Democratizing AI scientists using ToolUniverse](https://arxiv.org/abs/2509.23426) | Platform & Protocol | arXiv 2025 | - |
-| [Democratizing AI scientists using ToolUniverse](https://github.com/open-sciencelab/scp) | Platform & Protocol | 2025 | [code](https://github.com/open-sciencelab/scp) |
+| [Democratizing AI scientists using ToolUniverse](https://arxiv.org/abs/2509.23426) | Platform & Protocol | arXiv 2025 | [Website](https://aiscientist.tools/) |
+| [Scientific Intelligence Context Protocol(SCP)](https://github.com/open-sciencelab/scp) | Platform & Protocol | 2025 | [code](https://github.com/open-sciencelab/scp) |
 
 | ------------------------------------------------------------ | ------------------- | ---- | ------------------------------------------------------------ |
 | ------------------------------------------------------------ | ------------------- | ---- | ------------------------------------------------------------ |
