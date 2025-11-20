@@ -156,7 +156,19 @@ If this list helps your research, please ⭐ and cite:
 ### Life Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
-
+| [BioInformatics Agent (BIA): Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow **(BIA)**](<https://www.biorxiv.org/content/10.1101/2024.05.22.595240v2.abstract>) | Bioinformatics, 2025 |[![Star](https://img.shields.io/github/stars/biagent-dev/bia.svg?style=social&label=Star)](https://github.com/biagent-dev/bia)  |
+| [Cellagent: An LLM-Driven Multi-Agent Framework for Automated Single-Cell Data Analysis **(CellAgent)**](<https://arxiv.org/abs/2407.09811>) | arXiv:2407.09811, 2024 | [Homepage](http://cell.agent4science.cn/) |
+| [CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments **(CRISPR-GPT)**](<https://arxiv.org/html/2404.18021v1>) | arXiv:2404.18021, 2024 | None |
+| [PerTurboAgent: A Self-Planning Agent for Boosting Sequential Perturb-Seq Experiments **(PerTurboAgent)**](<https://www.biorxiv.org/content/10.1101/2025.05.25.656020v1>) | bioRxiv, 2025 | None|
+| [BiodiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments **(BiodiscoveryAgent)**](<https://arxiv.org/abs/2405.17631>) | arXiv:2405.17631, 2024 | [![Star](https://img.shields.io/github/stars/snap-stanford/BioDiscoveryAgent.svg?style=social&label=Star)](https://github.com/snap-stanford/BioDiscoveryAgent) |
+| [AI Mirrors Experimental Science to Uncover a Mechanism of Gene Transfer Crucial to Bacterial Evolution ](<https://www.sciencedirect.com/science/article/pii/S0092867425009730>) | Cell, 2025 | None |
+| [Scientific Hypothesis Generation by a Large Language Model: Laboratory Validation in Breast Cancer Treatment **(LLM-Hypothesis)**](<https://arxiv.org/abs/2405.12258>) | Journal of the Royal Society Interface, 2025 | None |
+| [SpatialAgent: An Autonomous AI Agent for Spatial Biology **(SpatialAgent)**](<https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1>) | bioRxiv, 2025 | [![Star](https://img.shields.io/github/stars/Genentech/SpatialAgent.svg?style=social&label=Star)](https://github.com/Genentech/SpatialAgent) |
+| [BioMaster: Multi-Agent System for Automated Bioinformatics Analysis Workflow **(BioMaster)**](<https://www.biorxiv.org/content/10.1101/2025.01.23.634608v1>) | bioRxiv, 2025 | [![Star](https://img.shields.io/github/stars/ai4nucleome/BioMaster.svg?style=social&label=Star)](https://github.com/ai4nucleome/BioMaster/tree/master) |
+| [Biomni: A General-Purpose Biomedical AI Agent Integrating 25 Domains to Generate Hypotheses **(Biomni)**](<https://biomni.stanford.edu/paper.pdf>) | bioRxiv, 2025 | [![Star](https://img.shields.io/github/stars/snap-stanford/biomni.svg?style=social&label=Star)](https://github.com/snap-stanford/biomni) |
+| [STELLA: Self-Evolving LLM Agent for Biomedical Research **(STELLA)**](<https://arxiv.org/abs/2507.02004>) | arXiv:2507.02004, 2025 | [![Star](https://img.shields.io/github/stars/zaixizhang/STELLA.svg?style=social&label=Star)](https://github.com/zaixizhang/STELLA) |
+| [The Virtual Lab of AI Agents Designs New SARS-CoV-2 Nanobodies **(VirtualLab)**](<https://www.nature.com/articles/s41586-025-09442-9>) | Nature, 2025 | [![Star](https://img.shields.io/github/stars/zou-group/virtual-lab.svg?style=social&label=Star)](https://github.com/zou-group/virtual-lab) |
+| [Proteus: Automating Exploratory Proteomics Research via Language Models **(Proteus)**](<https://arxiv.org/abs/2411.03743>) | arXiv:2504.12345, 2025 | None |
 ### Social Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
@@ -175,6 +187,7 @@ If this list helps your research, please ⭐ and cite:
 | [Budgetmlagent: A cost-effective LLM multi-agent system for automating machine learning tasks  **(Budgetmlagent)**](https://dl.acm.org/doi/full/10.1145/3703412.3703416) | 2024               | None |
 | [From data to story: Towards automatic animated data video creation with LLM-based multi-agent systems ](https://ieeexplore.ieee.org/abstract/document/10766492) | 2024               | None |
 | [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science  **(DeepAnalyze)**](https://arxiv.org/abs/2510.16872) | 2025               | [![Star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze)](https://github.com/ruc-datalab/DeepAnalyze) |
+
 
 
 ## Broader Impacts of AI Scientists
