@@ -189,10 +189,6 @@ If this list helps your research, please ⭐ and cite:
 
 
 
-## Broader Impacts of AI Scientists
-| Title                                                        | Pub.&Date           | Code/Project URL                                             |
-| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
-
 <!--
 请参考下面的格式：
 
