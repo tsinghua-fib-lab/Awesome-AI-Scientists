@@ -152,7 +152,7 @@ If this list helps your research, please ⭐ and cite:
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
 | [Augmenting large language models with chemistry tools](<https://www.nature.com/articles/s42256-024-00832-8>) | Nature Machine Intelligence, 2024 |None  |
-| [Cellagent: An LLM-Driven Multi-Agent Framework for Automated Single-Cell Data Analysis **(CellAgent)**](<https://www.nature.com/articles/s41586-023-06792-0>) | Nature, 2023 | [![Star][(https://img.shields.io/github/stars/Genentech/SpatialAgent.svg?style=social&label=Star)](https://github.com/Genentech/SpatialAgent](https://github.com/gomesgroup/coscientist)) |
+| [Cellagent: An LLM-Driven Multi-Agent Framework for Automated Single-Cell Data Analysis **(CellAgent)**](<https://www.nature.com/articles/s41586-023-06792-0>) | Nature, 2023 | [![Star](https://img.shields.io/github/stars/Genentech/SpatialAgent.svg?style=social&label=Star)](https://github.com/Genentech/SpatialAgent) |
 
 ### Life Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
