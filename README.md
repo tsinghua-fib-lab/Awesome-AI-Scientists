@@ -164,7 +164,7 @@ If this list helps your research, please ⭐ and cite:
 | [AI-Newton: A Concept-Driven Physical Law Discovery System without Prior Physical Knowledge](<https://arxiv.org/pdf/2504.01538?>) | Nature News(<https://www.nature.com/articles/d41586-025-03659-4>), 2025 |[![Star](https://img.shields.io/github/stars/Science-Discovery/AI-Newton.svg?style=social&label=Star)](https://github.com/Science-Discovery/AI-Newton) |
 | [MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback](<https://arxiv.org/pdf/2505.17873>) | arXiv:2505.17873, 2025 | [![Star](https://img.shields.io/github/stars/wanhaoliu/MOOSE-Chem3.svg?style=social&label=Star)](https://github.com/wanhaoliu/MOOSE-Chem3) |
 | [EarthLink: A Self-Evolving AI Agent for Climate Science](<https://arxiv.org/pdf/2507.17311?>) | arXiv:2507.17311?, 2025 | [Homepage](https://earthlink.intern-ai.org.cn) |
-| [EarthSE: A Benchmark Evaluating Earth Scientific Exploration Capability for Large Language Models](<https://arxiv.org/pdf/2505.17139>) | arXiv:2505.17139, 2025 | [https://huggingface.co/ai-earth] |
+| [EarthSE: A Benchmark Evaluating Earth Scientific Exploration Capability for Large Language Models](<https://arxiv.org/pdf/2505.17139>) | arXiv:2505.17139, 2025 | [Homepage](https://huggingface.co/ai-earth) |
 
 
 
