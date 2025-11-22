@@ -139,6 +139,13 @@ If this list helps your research, please ⭐ and cite:
 ### Human-in-the-Loop
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+| [DiscipLink: Unfolding Interdisciplinary Information Seeking Process via Human-AI Co-Exploration  **(DiscipLink)**](https://dl.acm.org/doi/abs/10.1145/3654777.3676366) | UIST 2024 | - |
+| [ConvXAI : Delivering Heterogeneous AI Explanations via Conversations to Support Human-AI Scientific Writing  **(ConvXAI)**](https://dl.acm.org/doi/abs/10.1145/3584931.3607492) | CSCW 2023 | [![Star](https://img.shields.io/github/stars/huashen218/convxai.svg?style=social&label=Star)](https://github.com/huashen218/convxai) |
+| [Agent Laboratory: Using LLM Agents as Research Assistants  **(Agent Laboratory)**](https://arxiv.org/abs/2501.04227) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory.svg?style=social&label=Star)](https://github.com/SamuelSchmidgall/AgentLaboratory) |
+| [Towards an AI co-scientist  **(AI co-scientist)**](https://arxiv.org/abs/2502.18864) | arxiv 2025 | - |
+| [AI mirrors experimental science to uncover a mechanism of gene transfer crucial to bacterial evolution](https://www.cell.com/cell/fulltext/S0092-8674%2825%2900973-0?utm) | Cell 2025 | - |
+| [How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation with an LLM-based Agent  **(CoQuest)**](https://dl.acm.org/doi/full/10.1145/3613904.3642698) | CHI 2024 | [![Star](https://img.shields.io/github/stars/yiren-liu/coquest.svg?style=social&label=Star)](https://github.com/yiren-liu/coquest) |
+| [IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback  **(IdeaSynth)**](https://dl.acm.org/doi/full/10.1145/3706598.3714057) | CHI 2025 | - |
 
 ### Human-out-of-the-Loop
 | Title                                                        | Pub.&Date           | Code/Project URL                                             | 
