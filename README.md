@@ -152,7 +152,9 @@ If this list helps your research, please ⭐ and cite:
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
 | [Augmenting large language models with chemistry tools](<https://www.nature.com/articles/s42256-024-00832-8>) | Nature Machine Intelligence, 2024 |None  |
-| [Cellagent: An LLM-Driven Multi-Agent Framework for Automated Single-Cell Data Analysis **(CellAgent)**](<https://www.nature.com/articles/s41586-023-06792-0>) | Nature, 2023 | [![Star](https://img.shields.io/github/stars/Genentech/SpatialAgent.svg?style=social&label=Star)](https://github.com/Genentech/SpatialAgent) |
+| [Autonomous chemical research with large language models.](<https://www.nature.com/articles/s41586-023-06792-0>) | Nature, 2023 | [![Star](https://img.shields.io/github/stars/Genentech/SpatialAgent.svg?style=social&label=Star)](https://github.com/Genentech/SpatialAgent)](https://github.com/gomesgroup/coscientist) |
+| [The Virtual Lab of AI Agents Designs New SARS-CoV-2 Nanobodies **(VirtualLab)**](<https://www.nature.com/articles/s41586-025-09442-9>) | Nature, 2025 | [![Star](https://img.shields.io/github/stars/zou-group/virtual-lab.svg?style=social&label=Star)](https://github.com/zou-group/virtual-lab) |
+| [A Bayesian machine scientist to aid in the solution of challenging scientific problems.](<https://www.science.org/doi/pdf/10.1126/sciadv.aav6971>) | Science advances, 2020 | None |
 
 ### Life Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
