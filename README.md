@@ -151,7 +151,7 @@ If this list helps your research, please ⭐ and cite:
 ### Physical Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
-| [Augmenting large language models with chemistry tools](<[https://www.biorxiv.org/content/10.1101/2024.05.22.595240v2.abstract](https://www.nature.com/articles/s42256-024-00832-8)>) | Nature Machine Intelligence, 2024 |None  |
+| [Augmenting large language models with chemistry tools](<(https://www.nature.com/articles/s42256-024-00832-8)>) | Nature Machine Intelligence, 2024 |None  |
 
 ### Life Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
