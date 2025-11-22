@@ -155,9 +155,18 @@ If this list helps your research, please ⭐ and cite:
 | [Autonomous chemical research with large language models.](<https://www.nature.com/articles/s41586-023-06792-0>) | Nature, 2023 | [![Star](https://img.shields.io/github/stars/gomesgroup/coscientist.svg?style=social&label=Star)](https://github.com/gomesgroup/coscientist) |
 | [The Virtual Lab of AI Agents Designs New SARS-CoV-2 Nanobodies **(VirtualLab)**](<https://www.nature.com/articles/s41586-025-09442-9>) | Nature, 2025 | [![Star](https://img.shields.io/github/stars/zou-group/virtual-lab.svg?style=social&label=Star)](https://github.com/zou-group/virtual-lab) |
 | [A Bayesian machine scientist to aid in the solution of challenging scientific problems](<https://www.science.org/doi/full/10.1126/sciadv.aav6971>) | Science advances, 2020 | None |
-| [AI Feynman: A physics-inspired method for symbolic regression**(AI Feynman)**](<https://www.science.org/doi/full/10.1126/sciadv.aay2631>) | Science advances, 2020 | [![Star](https://img.shields.io/github/stars/SJ001/AI-Feynman.svg?style=social&label=Star)](https://github.com/SJ001/AI-Feynman)] |
+| [AI Feynman: A physics-inspired method for symbolic regression **(AI Feynman)**](<https://www.science.org/doi/full/10.1126/sciadv.aay2631>) | Science advances, 2020 | [![Star](https://img.shields.io/github/stars/SJ001/AI-Feynman.svg?style=social&label=Star)](https://github.com/SJ001/AI-Feynman) |
 | [Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical law](<https://iopscience.iop.org/article/10.3847/1538-4357/ad014c/meta>) | The Astrophysical, 2023 | None |
 | [A neural symbolic model for space physics](<https://www.nature.com/articles/s42256-025-01126-3>) | Nature Machine Intelligence, 2025 | [![Star](https://img.shields.io/github/stars/Jie0618/PhysicsRegression.svg?style=social&label=Star)](https://github.com/Jie0618/PhysicsRegression) |
+| [MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses **(MOOSE-Chem)**](<https://openreview.net/forum?id=X9OfMNNepI>) | ICLR, 2025 | [![Star](https://img.shields.io/github/stars/ZonglinY/MOOSE-Chem.svg?style=social&label=Star)](https://github.com/ZonglinY/MOOSE-Chem) |
+| [Beyond designer’s knowledge: Generating materials design hypotheses via a large language model](<https://www.sciencedirect.com/science/article/pii/S1359645425005932>) | Acta Materialia, 2025 | None |
+| [MOOSE-Chem2: Exploring LLM Limits in Fine-Grained Scientific Hypothesis Discovery via Hierarchical Search](<https://arxiv.org/pdf/2505.19209>) | arXiv:2505.19209, 2025 | [![Star](https://img.shields.io/github/stars/ZonglinY/MOOSE-Chem2.svg?style=social&label=Star)](https://github.com/ZonglinY/MOOSE-Chem2) |
+| [AI-Newton: A Concept-Driven Physical Law Discovery System without Prior Physical Knowledge](<https://arxiv.org/pdf/2504.01538?>) | Nature News(<https://www.nature.com/articles/d41586-025-03659-4>), 2025 |[![Star](https://img.shields.io/github/stars/Science-Discovery/AI-Newton.svg?style=social&label=Star)](https://github.com/Science-Discovery/AI-Newton) |
+| [MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback](<https://arxiv.org/pdf/2505.17873>) | arXiv:2505.17873, 2025 | [![Star](https://img.shields.io/github/stars/wanhaoliu/MOOSE-Chem3.svg?style=social&label=Star)](https://github.com/wanhaoliu/MOOSE-Chem3) |
+| [EarthLink: A Self-Evolving AI Agent for Climate Science](<https://arxiv.org/pdf/2507.17311?>) | arXiv:2507.17311?, 2025 | [Homepage](https://earthlink.intern-ai.org.cn) |
+| [EarthSE: A Benchmark Evaluating Earth Scientific Exploration Capability for Large Language Models](<https://arxiv.org/pdf/2505.17139>) | arXiv:2505.17139, 2025 | [https://huggingface.co/ai-earth] |
+
+
 
 
 ### Life Science
