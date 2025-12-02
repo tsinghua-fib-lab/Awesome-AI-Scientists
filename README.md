@@ -70,6 +70,18 @@ If this list helps your research, please ⭐ and cite:
 ### Ideation
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+| **[Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109)** | ICLR 2025      | [![Star](https://img.shields.io/github/stars/NoviScl/AI-Researcher.svg?style=social&label=Star)](https://github.com/NoviScl/AI-Researcher) |
+| **[MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses](https://arxiv.org/abs/2410.07076)** | ICLR 2025 | [![Star](https://img.shields.io/github/stars/ZonglinY/MOOSE-Chem.svg?style=social&label=Star)](https://github.com/ZonglinY/MOOSE-Chem) |
+| **[SciMON: Scientific Inspiration Machines Optimized for Novelty](https://arxiv.org/abs/2305.14259)** | ACL 2024      | [![Star](https://img.shields.io/github/stars/EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty.svg?style=social&label=Star)](https://github.com/EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty) |
+| **[ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/abs/2404.07738)** | NAACL 2025      | [![Star](https://img.shields.io/github/stars/JinheonBaek/ResearchAgent.svg?style=social&label=Star)](https://github.com/JinheonBaek/ResearchAgent) |
+| **[Deep Ideation: Designing LLM Agents to Generate Novel Research Ideas on Scientific Concept Network](https://arxiv.org/abs/2511.02238)** | ArXiv 2025      | - |
+| **[Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents](https://arxiv.org/abs/2410.13185)** | Arxiv 2024    | [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/CoI-Agent.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/CoI-Agent) |
+| **[SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning](https://arxiv.org/abs/2409.05556)** | ArXiv 2024      | - |
+| **[IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery](https://arxiv.org/abs/2504.16728)** | ACL 2025     | [![Star](https://img.shields.io/github/stars/Anikethh/IRIS-Interactive-Research-Ideation-System.svg?style=social&label=Star)](https://github.com/Anikethh/IRIS-Interactive-Research-Ideation-System) |
+| **[IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback](https://arxiv.org/abs/2410.04025)** | CHI 2025     | - |
+| **[Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://arxiv.org/abs/2410.09403)** | ACL 2025 | [![Star](https://img.shields.io/github/stars/Intern-Science/Virtual-Scientists.svg?style=social&label=Star)](https://github.com/Intern-Science/Virtual-Scientists) |
+| **[The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies](https://www.nature.com/articles/s41586-025-09442-9)** | Nature 2025    | [![Star](https://img.shields.io/github/stars/zou-group/virtual-lab.svg?style=social&label=Star)](https://github.com/zou-group/virtual-lab) |
+| **[The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas](https://arxiv.org/abs/2506.20803)** | Arxiv 2025    | [![Star](https://img.shields.io/github/stars/NoviScl/AI-Researcher.svg?style=social&label=Star)](https://github.com/NoviScl/AI-Researcher) |
 
 ### Autonomous Experiments
 
