@@ -207,8 +207,19 @@ If this list helps your research, please ⭐ and cite:
 | [The Virtual Lab of AI Agents Designs New SARS-CoV-2 Nanobodies **(VirtualLab)**](<https://www.nature.com/articles/s41586-025-09442-9>) | Nature, 2025 | [![Star](https://img.shields.io/github/stars/zou-group/virtual-lab.svg?style=social&label=Star)](https://github.com/zou-group/virtual-lab) |
 | [Proteus: Automating Exploratory Proteomics Research via Language Models **(Proteus)**](<https://arxiv.org/abs/2411.03743>) | arXiv:2504.12345, 2025 | None |
 ### Social Science
-| Title                                                        | Pub.&Date           | Code/Project URL                                             |
-| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+### AI for Social Science (AI4SS) & Simulation
+
+| Title | Pub.&Date | Code/Project URL |
+| :--- | :--- | :--- |
+| [Literature meets data: A synergistic approach to hypothesis generation](https://aclanthology.org/2025.acl-long.12/) | ACL 2025 | [![Star](https://img.shields.io/github/stars/ChicagoHAI/hypothesis-generation?style=social)](https://github.com/ChicagoHAI/hypothesis-generation) |
+| [Generative agent simulations of 1,000 people](https://arxiv.org/abs/2411.10109) | arXiv 2024 | [![Star](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=social)](https://github.com/joonspk-research/generative_agents) |
+| [A large-scale replication of scenario-based experiments in psychology and management using large language models](https://www.nature.com/articles/s43588-025-00627-y) | Nat. Comput. Sci. 2025 | [![Star](https://img.shields.io/github/stars/ZiyanCui/LLM_Replication?style=social)](https://github.com/ZiyanCui/LLM_Replication) |
+| [The AI Economist: Taxation policy design via two-level deep multiagent reinforcement learning](https://www.science.org/doi/10.1126/sciadv.abk2607) | Sci. Adv. 2022 | [![Star](https://img.shields.io/github/stars/salesforce/ai-economist?style=social)](https://github.com/salesforce/ai-economist) |
+| [LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra](https://arxiv.org/abs/2507.15815) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/sethkarten/LLM-Economist?style=social)](https://github.com/sethkarten/LLM-Economist) |
+| [EconGym: A Scalable AI Testbed with Diverse Economic Tasks](https://arxiv.org/abs/2506.12110) | NeurIPS 2025 | [![Star](https://img.shields.io/github/stars/Miracle1207/EconGym?style=social)](https://github.com/Miracle1207/EconGym) |
+| [REPRO-BENCH: Can Agentic AI Systems Assess the Reproducibility of Social Science Research?](https://aclanthology.org/2025.findings-acl.1210/) | ACL 2025 (Findings) | [![Star](https://img.shields.io/github/stars/uiuc-kang-lab/REPRO-Bench?style=social)](https://github.com/uiuc-kang-lab/REPRO-Bench) |
+| [Automated Social Science: Language Models as Scientist and Subjects](https://www.nber.org/papers/w32439) | NBER 2024 | [![Star](https://img.shields.io/github/stars/KeHang-Zhu/lm-automated-social-science?style=social)](https://github.com/KeHang-Zhu/lm-automated-social-science) |
+| [YuLan-OneSim: Towards the Next Generation of Social Simulator with Large Language Models](https://arxiv.org/abs/2412.00000) | Workshop 2025 | [![Star](https://img.shields.io/github/stars/RUC-GSAI/YuLan-OneSim?style=social)](https://github.com/RUC-GSAI/YuLan-OneSim) |
 
 ### Data Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
