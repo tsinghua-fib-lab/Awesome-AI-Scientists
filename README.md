@@ -2,7 +2,7 @@
 
 A curated list of awesome resources on AI Scientists, based on our survey "A Comprehensive Survey of AI Scientists".
 
-![Loading roadmap](asset/concept.pdf "outline")
+![Loading roadmap](asset/concept.png "outline")
 
 <!--
 ## News🔥
