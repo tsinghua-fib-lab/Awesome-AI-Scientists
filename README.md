@@ -52,6 +52,8 @@ If this list helps your research, please ⭐ and cite:
 ## Functional Roles of AI Scientists
 
 ### Deep Research
+![Deep Research](asset/function_deep_research.jpg "Origin and Evolution of Deep Research")
+
 
 | Title                                                        | Pub. & Date     | Code / Project URL                                           |
 | :----------------------------------------------------------- | :-------------- | :----------------------------------------------------------- |
