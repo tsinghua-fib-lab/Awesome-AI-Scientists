@@ -70,6 +70,7 @@ If this list helps your research, please ⭐ and cite:
 | **[Qwen Deep Research](https://www.alibabacloud.com/help/en/model-studio/qwen-deep-research)** | Qwen AI 2025    | [Documentation](https://www.alibabacloud.com/help/en/model-studio/qwen-deep-research) |
 
 ### Ideation
+![Ideation](asset/function_ideation.jpg "The different stages in the ideation process and the classification of methods under each stage.")
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
 | **[Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109)** | ICLR 2025      | [![Star](https://img.shields.io/github/stars/NoviScl/AI-Researcher.svg?style=social&label=Star)](https://github.com/NoviScl/AI-Researcher) |
@@ -86,8 +87,7 @@ If this list helps your research, please ⭐ and cite:
 | **[The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas](https://arxiv.org/abs/2506.20803)** | Arxiv 2025    | [![Star](https://img.shields.io/github/stars/NoviScl/AI-Researcher.svg?style=social&label=Star)](https://github.com/NoviScl/AI-Researcher) |
 
 ### Autonomous Experiments
-
-
+![Autonomous Experiments](asset/function_auto_experiment.jpg "Overview of Autonomous Experimentation.")
 | Title | Category | Publication & Year | Code / Project URL |
 |---|---|---|---|
 | [Code2MCP: Transforming Code Repositories into MCP Services](https://arxiv.org/abs/2509.05941) | Compiler | arXiv 2025 | [Code](https://github.com/DEFENSE-SEU/Code2MCP) |
@@ -114,6 +114,7 @@ If this list helps your research, please ⭐ and cite:
 | [Scientific Intelligence Context Protocol(SCP)](https://github.com/open-sciencelab/scp) | Platform & Protocol | 2025 | [Code](https://github.com/open-sciencelab/scp) |
 
 ### Scientific Presentation
+![Scientific Presentation](asset/function_representation.jpg "Overview of scientific presentation forms.")
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
 | [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery  **(AI Scientist)**](https://arxiv.org/abs/2408.06292) | arxiv 2024 | [![Star](https://img.shields.io/github/stars/SakanaAI/AI-Scientist.svg?style=social&label=Star)](https://github.com/SakanaAI/AI-Scientist) |
@@ -134,6 +135,7 @@ If this list helps your research, please ⭐ and cite:
 | [Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI Agents  **(Paper2Agent)**](https://arxiv.org/abs/2509.06917) | arxiv 2025 | [![Star](https://img.shields.io/github/stars/jmiao24/Paper2Agent.svg?style=social&label=Star)](https://github.com/jmiao24/Paper2Agent) |
 
 ### Research Evaluation
+![Research Evaluation](asset/function_evaluation.png "Overview of LLM-based Research Evaluation. The left panel illustrates the automated peer-review loop where AI agents critique manuscripts. The right panel presents the taxonomy of existing literature, categorized into LLM-as-Reviewer Frameworks, further divided into Single-Agent and Multi-Agent approaches, and LLM-as-Reviewer in Systems.")
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
 | [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis  **(SEA)**](https://arxiv.org/abs/2407.12857) | EMNLP 2025 | [![Star](https://img.shields.io/github/stars/ecnu-sea/SEA.svg?style=social&label=Star)](https://github.com/ecnu-sea/sea) |
