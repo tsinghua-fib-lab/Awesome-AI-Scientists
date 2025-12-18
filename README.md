@@ -177,6 +177,7 @@ If this list helps your research, please ⭐ and cite:
 ### Physical Science
 | Title                                                        | Pub.&Date           | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+| [Discovering network dynamics with neural symbolic regression **(ND2)**](<https://www.nature.com/articles/s43588-025-00893-8>) | Nature Computational Science, 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/ND2.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/ND2) |
 | [Augmenting large language models with chemistry tools](<https://www.nature.com/articles/s42256-024-00832-8>) | Nature Machine Intelligence, 2024 |None  |
 | [Autonomous chemical research with large language models.](<https://www.nature.com/articles/s41586-023-06792-0>) | Nature, 2023 | [![Star](https://img.shields.io/github/stars/gomesgroup/coscientist.svg?style=social&label=Star)](https://github.com/gomesgroup/coscientist) |
 | [The Virtual Lab of AI Agents Designs New SARS-CoV-2 Nanobodies **(VirtualLab)**](<https://www.nature.com/articles/s41586-025-09442-9>) | Nature, 2025 | [![Star](https://img.shields.io/github/stars/zou-group/virtual-lab.svg?style=social&label=Star)](https://github.com/zou-group/virtual-lab) |
