@@ -256,3 +256,4 @@ If this list helps your research, please ⭐ and cite:
 | [The Role of AI in Facilitating Interdisciplinary Collaboration: Evidence from AlphaFold **(AlphaFold & Collaboration)**](https://www.arxiv.org/abs/2508.13234) | arXiv 2025 | None |
 | [AI for Scientific Discovery is a Social Problem **(AI & Scientific Institutions)**](https://arxiv.org/abs/2509.06580) | arXiv 2025 | None |
 | [Artificial intelligence in science – Promises or perils for creativity? **(AI & Creativity)**](https://data.europa.eu/doi/10.2777/6693925) | EU Policy Report 2025 | None |
+| [Project Rachel: Can an AI Become a Scholarly Author? **(AI & Scientific Identity)**](http://arxiv.org/pdf/2511.14819) | arXiv 2025 | [project](https://project-rachel.4open.science/) |
