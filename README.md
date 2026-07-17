@@ -240,6 +240,7 @@ If this list helps your research, please ⭐ and cite:
 | [Budgetmlagent: A cost-effective LLM multi-agent system for automating machine learning tasks  **(Budgetmlagent)**](https://dl.acm.org/doi/full/10.1145/3703412.3703416) | AIMLSystems '24              | None |
 | [From data to story: Towards automatic animated data video creation with LLM-based multi-agent systems ](https://ieeexplore.ieee.org/abstract/document/10766492) | 2024 IEEE VIS Workshop           | None |
 | [DeepAnalyze: Agentic Large Language Models for Autonomous Data Science  **(DeepAnalyze)**](https://arxiv.org/abs/2510.16872) | Arxiv 2025             | [![Star](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze)](https://github.com/ruc-datalab/DeepAnalyze) |
+| [MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI  **(MLS-Bench)**](https://arxiv.org/abs/2605.08678) | Arxiv 2026             | [![Star](https://img.shields.io/github/stars/Imbernoulli/MLS-Bench.svg?style=social&label=Star)](https://github.com/Imbernoulli/MLS-Bench) |
 
 ## Broader Impacts of AI Scientists
 ![Broader Impacts of AI Scientists](asset/broader_impact.jpg "Broader impacts of AI Scientists at paper, field, researcher, and community levels.")
