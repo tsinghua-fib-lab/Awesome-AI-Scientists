@@ -164,6 +164,7 @@ If this list helps your research, please ⭐ and cite:
 | [AI mirrors experimental science to uncover a mechanism of gene transfer crucial to bacterial evolution](https://www.cell.com/cell/fulltext/S0092-8674%2825%2900973-0?utm) | Cell 2025 | - |
 | [How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation with an LLM-based Agent  **(CoQuest)**](https://dl.acm.org/doi/full/10.1145/3613904.3642698) | CHI 2024 | [![Star](https://img.shields.io/github/stars/yiren-liu/coquest.svg?style=social&label=Star)](https://github.com/yiren-liu/coquest) |
 | [IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback  **(IdeaSynth)**](https://dl.acm.org/doi/full/10.1145/3706598.3714057) | CHI 2025 | - |
+| [ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations **(ScholarCopilot)**](https://arxiv.org/abs/2504.00824) | COLM 2025 | [![Star](https://img.shields.io/github/stars/TIGER-AI-Lab/ScholarCopilot.svg?style=social&label=Star)](https://github.com/TIGER-AI-Lab/ScholarCopilot) |
 
 ### Human-out-of-the-Loop
 | Title                                                        | Pub.&Date           | Code/Project URL                                             | 
